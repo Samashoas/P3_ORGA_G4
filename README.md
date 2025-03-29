@@ -119,3 +119,38 @@ Este sistema permite ingresar una contraseña mediante botones físicos, compara
 ![Puente H](https://github.com/Samashoas/P3_ORGA_G4/blob/main/Diagramas%20proteus/Puente%20H.jpg?raw=true)
 ![Teclado y contraseña](https://github.com/Samashoas/P3_ORGA_G4/blob/main/Diagramas%20proteus/Teclado.jpg?raw=true)
 ![Contador](https://github.com/Samashoas/P3_ORGA_G4/blob/main/Diagramas%20proteus/Contador.jpg?raw=true)
+
+
+## Equipo utilizado
+* Arduino Mega
+* Servo motor
+* Protoboards
+* Jumpers MxM, MxH, HxH
+* Flip flops
+* Compuertas logicas and, or
+* Botones
+* Switches
+* Cautin
+* Pasta para soldar
+* Estaño
+* Placa de cobre
+* Sensor Ultrasonico
+
+## Presupuesto
+|Componente|Costo|
+|:---------|-----:|
+|Arduino Mega| Q 0.00|
+|Protoboards|  Q 0.00|
+|Servo motor X2| Q 31.00|
+|Motor| Q 20.00|
+|Placa de cobre X2| Q 60.00|
+|Acido ferrico| Q 56.00|
+|Flip Flop X4| Q 24.00|
+
+## Conclusiones
+1. Se logró aplicar de manera práctica los conocimientos adquiridos en clase sobre lógica combinacional y secuencial, integrando ambos tipos de lógica en el diseño de diversos circuitos funcionales.
+2. La implementación del puente H permitió comprender cómo controlar el sentido de giro de un motor DC mediante transistores, destacando la importancia de la conmutación segura y la protección del circuito.
+3. El uso de sensores ultrasónicos con Arduino facilitó la medición precisa de distancias, demostrando la utilidad de estos dispositivos en proyectos de automatización y detección de objetos.
+4. La creación de un teclado con botones y validación de contraseña reforzó el uso de flip-flops como elementos de almacenamiento y comparación, evidenciando cómo es posible construir sistemas de seguridad digitales sin necesidad de microcontroladores.
+5. La construcción de contadores sincrónicos y asincrónicos permitió analizar las diferencias entre ambos, especialmente en cuanto a velocidad y precisión, siendo clave para elegir el adecuado según la aplicación.
+6. En general, todos los montajes realizados promovieron la optimización de recursos, el análisis lógico y el desarrollo de habilidades en resolución de problemas electrónicos reales.
